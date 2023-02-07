@@ -15,4 +15,4 @@ print('Estere Ilze Ozolina')
 print("Anna Mišela Tunika")
 print("Marta Lībeka")
 print("Līva Pričina")
-print("Linda Blūma")
+print("Linda Blūma")v2
